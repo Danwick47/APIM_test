@@ -4,7 +4,7 @@
   "description": "test project",
   "main": "app.js",
   "scripts": {
-    "build": "webpack --config webpack.config.js"
+    "build": "grunt build"
   },
   "author": "",
   "license": "ISC",
